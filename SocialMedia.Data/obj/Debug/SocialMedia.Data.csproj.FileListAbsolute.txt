@@ -33,3 +33,6 @@ C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\bin\
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.Migrations.InitialMigration.resources
