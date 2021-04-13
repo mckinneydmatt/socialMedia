@@ -33,38 +33,6 @@ C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\bin\
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll.config
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\SocialMedia.Data.pdb
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\EntityFramework.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Owin.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\EntityFramework.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.xml
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csprojAssemblyReference.cache
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CoreCompileInputs.cache
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CopyComplete
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
-C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.Migrations.InitialMigration.resources
