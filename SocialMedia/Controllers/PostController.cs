@@ -22,7 +22,7 @@ namespace SocialMedia.Controllers
         public IHttpActionResult Get()
         {
             PostService postService = CreatePostService();
-            var posts = postService.GetNotes();
+            var posts = postService.GetPosts();
             return Ok(posts);
         }
         public IHttpActionResult Post(PostCreate post)

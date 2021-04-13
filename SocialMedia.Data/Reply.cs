@@ -23,5 +23,9 @@ namespace SocialMedia.Data
 
         [Required]
         public Guid AuthorId { get; set; }
+
+        public DateTimeOffset CreatedUtc { get; set; }
+
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }

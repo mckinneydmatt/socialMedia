@@ -21,8 +21,8 @@ namespace SocialMedia.Data
         [Required]
         [MaxLength(200, ErrorMessage = "There are too many characters in this field.")]
         public string Text { get; set; }
-        //public virtual List<Comment> Comments { get; set; } = new List<Comment>();
-        //public virtual List<Like> Likes { get; set; } = new List<Like>();
+        public virtual List<Comment> Comments { get; set; } = new List<Comment>();
+        
 
 
         [Required]
