@@ -14,3 +14,9 @@ C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\SocialMedia.Data.dll
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\SocialMedia.Models.dll
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\SocialMedia.Data.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\SocialMedia.Data.dll.config
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\SocialMedia.Models.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Services\bin\Debug\SocialMedia.Models.dll.config
