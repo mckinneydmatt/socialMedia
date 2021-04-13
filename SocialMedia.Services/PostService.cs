@@ -36,7 +36,7 @@ namespace SocialMedia.Services
             }
         }
 
-        public IEnumerable<PostListItem> GetNotes()
+        public IEnumerable<PostListItem> GetPosts()
         {
             using (var ctx = new ApplicationDbContext())
             {
@@ -58,6 +58,7 @@ namespace SocialMedia.Services
                 return query.ToArray();
             }
         }
+       
 
     }
 }
