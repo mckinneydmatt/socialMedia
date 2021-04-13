@@ -23,7 +23,8 @@ namespace SocialMedia.Services
             {
                 AuthorId = _userId,
                 Text = model.Reply,
-                CommentId = model.CommentId
+                CommentId = model.CommentId,
+                CreatedUtc = DateTimeOffset.Now
             };
 
             using (var ctx = new ApplicationDbContext())
