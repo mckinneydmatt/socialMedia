@@ -33,6 +33,7 @@ namespace SocialMedia.Data
             return new ApplicationDbContext();
         }
         public DbSet<Post> Posts { get; set; } //<--- Add this
+        public DbSet<Comments> Comments { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
