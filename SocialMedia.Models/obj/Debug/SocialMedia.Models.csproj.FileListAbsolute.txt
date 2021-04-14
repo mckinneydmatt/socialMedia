@@ -14,3 +14,19 @@ C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Models\bi
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\81-3-8 SD\24hrBlueBadge\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\EntityFramework.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\EntityFramework.xml
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csprojAssemblyReference.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+C:\Users\Jon\Documents\ElevenFiftyProjects\24HrChallenge\socialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb

@@ -5,28 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SocialMedia.Data
+namespace SocialMedia.Models
 {
-    public class Post
+    public class PostDetail
     {
-        [Key]
         public int PostId { get; set; }
-
-        [Required]
-        public Guid AuthorId { get; set; }
-
-        [Required]
         public string Title { get; set; }
-
-        [Required]
-        [MaxLength(200, ErrorMessage = "There are too many characters in this field.")]
         public string Text { get; set; }
-        public virtual List<Comment> Comments { get; set; } = new List<Comment>();
-        
+        [Display(Name = "Created")]
 
-
-        [Required]
         public DateTimeOffset CreatedUtc { get; set; }
+        [Display(Name = "Modified")]
 
         public DateTimeOffset? ModifiedUtc { get; set; }
     }
